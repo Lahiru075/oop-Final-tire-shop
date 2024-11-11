@@ -1,0 +1,7 @@
+.bt-gradient {
+    -fx-background-color: linear-gradient(from 0% 0% to 0% 100%, rgba(0,0,0,0.72) 0%, rgba(255,255,255,0) 91%);
+}
+
+.but1{
+    -fx-background-color: black;
+}
